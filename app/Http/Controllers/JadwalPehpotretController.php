@@ -9,7 +9,7 @@ use App\Models\TimFoto;
 use App\Models\TimVideo;
 use Illuminate\Http\Request;
 
-class JadwalController extends Controller
+class JadwalPehpotretController extends Controller
 {
     public function index()
     {
